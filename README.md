@@ -1,1 +1,1 @@
-# send-email-app
+# Simple Send Email App.
